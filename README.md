@@ -1,10 +1,11 @@
 # Professional README Generator
 
 ## Table of Contents
-* Description
-* Visual Presentation
-* Installation
-* Usage
+* [Description](https://github.com/T8886/Dynamically-generated-README.md-file#description)
+* [Visual Presentation]
+* [Installation](https://github.com/T8886/Dynamically-generated-README.md-file#installation)
+* [Usage](https://github.com/T8886/Dynamically-generated-README.md-file#usage)
+* [License](https://github.com/T8886/Dynamically-generated-README.md-file#license)
 
 ## Description:
 The README Generator was created in effort to easily generate README files that use a consistent format for my future projects.  
@@ -26,5 +27,5 @@ WHEN I click on the links in the Table of Contents THEN I am taken to the corres
 * Answer the prompts that follow
 * On success a README.md will be generated.
 
-## License
+## License:
 N/A
