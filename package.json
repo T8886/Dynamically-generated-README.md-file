@@ -1,0 +1,23 @@
+{
+  "name": "dynamically-generated-readme.md-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T8886/Dynamically-generated-README.md-file.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T8886/Dynamically-generated-README.md-file/issues"
+  },
+  "homepage": "https://github.com/T8886/Dynamically-generated-README.md-file#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
