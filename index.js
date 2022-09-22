@@ -54,12 +54,17 @@ inquirer
         },
         {
             type: 'input',
-            message: 'Questions.',
-            name: 'Questions',
+            message: 'Provide your Github link.',
+            name: 'Github',
+        },
+        {
+            type: 'input',
+            message: 'Provide your email address.',
+            name: 'Email',
         },
     ])
-    .then(({answers}) =>
-        fs.writeFile('README.md', generateMarkdown(answers), (err) =>
+    .then((answers) =>
+        fs.writeFile('SampleREADME.md', generateMarkdown(answers), (err) =>
             err ? console.log(err) : console.log("Sucess!")
         )
     );
