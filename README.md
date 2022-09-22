@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Description](https://github.com/T8886/Dynamically-generated-README.md-file#description)
-* [Visual Presentation]
+* [Visual Presentation](https://github.com/T8886/Dynamically-generated-README.md-file#visual-presentation)
 * [Installation](https://github.com/T8886/Dynamically-generated-README.md-file#installation)
 * [Usage](https://github.com/T8886/Dynamically-generated-README.md-file#usage)
 * [License](https://github.com/T8886/Dynamically-generated-README.md-file#license)
@@ -17,8 +17,8 @@ WHEN I enter my GitHub link THEN this is added to the section of the README enti
 WHEN I enter my email address THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 WHEN I click on the links in the Table of Contents THEN I am taken to the corresponding section of the README
 
-## [Visual Presentation] 
-(https://drive.google.com/file/d/13ixBW45nJJ-gQMxvv7cHo_ROob3aWSTW/view?usp=sharing)
+##  Visual Presentation
+https://drive.google.com/file/d/13ixBW45nJJ-gQMxvv7cHo_ROob3aWSTW/view?usp=sharing
 
 ## Installation:
 * Download it through Github
