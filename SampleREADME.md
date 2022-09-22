@@ -1,4 +1,4 @@
-# gh
+# Project1
   
   ## Table of Contents
   - [Description](#Description)
@@ -10,18 +10,18 @@
   - [Questions](#Questions)
 
   ## Description:
-  gh
+  The readme generator was created in effort to easily genearte README file.
   ## Installation:
-  gh
+  download it through Github, Ensure inquirer is installed.
   ## Usage:
-  gh
+  Open terminal, type node index.js, answer quetions, and readme file will be generated.
   ## License:
-  Apache License 2.0 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Contribution:
-  gh
+  N/A
   ## Testing:
-  gh
+  N/A
   ##  Questions:
-  - Github: gh
-  - Email: gh
+  - Github: www.github.com/T8886
+  - Email: t@email.com
  
